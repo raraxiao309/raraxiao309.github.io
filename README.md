@@ -138,13 +138,16 @@
   
     Through them, I learned something profound: when people feel secure in their own lives, they do not compete, they uplift.</p>
 
-    <p>And somewhere along the way, I changed too. Throughout the journey, I learned how to navigate rejection and turn differences into something more meaningful. I’ve realized that being different is not bad at all. <strong>Life is too short to be mediocre </strong>. I feel proud of who I am and what makes me unique. If I were just like everyone else, I probably wouldn’t have been able to work in Korea or reach the position I am in today.</p>
+    <p>And somewhere along the way, I changed too. Throughout the journey, I learned how to navigate rejection and turn differences into something more meaningful. I have realized that being different is not bad at all. 
+    
+    <div class="quote">
+    <strong>Life is too short to be mediocre </strong>. 
+    </div>
+    
+    I feel proud of who I am and what makes me unique. If I were just like everyone else, I probably would not have been able to work in Korea or reach the position I am in today.</p>
 
-    <p>Instead, I chose friend carefully and embrace myself fully. Because I realized that it is not about how many people you know, it is about who you choose to keep, and who chooses to stay. I just simply prefer a small circle.</p>
+    <p>Also, I chose friends carefully and embrace myself fully. Because I realized that it is not about how many people you know, it is about who you choose to keep, and who chooses to stay. I just simply prefer a small circle.</p>
 
     <p><em>To be continue…</em></p>
 
     <footer>© 2026 · My Personal Journal</footer>
-
-
-
