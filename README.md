@@ -103,7 +103,11 @@
     <p>So, there was always one belief I held onto: I wanted to do the right thing, at least for myself. Since I was a child, I believed that doing what is right would bring a deeper kind of satisfaction, but sometimes with the cost of not being liked by some people. I tried, always, to see the brighter side. If nothing else, I always knew I could rely on myself. That quiet confidence became my anchor. It helped me endure. It helped me move forward.</p>
   <div class="section-break">• • •</div>
   
-    <p>During my undergraduate years, my friends were ambitious students. Most of my smart classmates were men, but I appreciated that because it allowed me to gain more exposure from the professors. I managed to become one of the top three students in my faculty. I also had the opportunity to study abroad in Korea, supported by my parents. However, despite my achievements, my 'close' friends never congratulated me. At that time, I felt offended and sad. Still, as I mentioned, I believe I can do everything by myself. So, even without them, I believe I will always be fine.</p>
+    <p>During my undergraduate years, many of my friends were ambitious students, and I was one of them. Some people even disliked me for disagreeing during their presentations. However, one thing is certain: I never intended to attack anyone or to win an argument. Natural science is a precise field—when something is wrong, it is simply wrong. I also never based my arguments on assumptions; they were always supported by books or academic journals.</p>
+    
+    <p>Most of my top-performing classmates were men, but I appreciated this because it gave me more opportunities to engage with professors and gain broader exposure. I eventually became one of the top three students in my faculty and had the opportunity to study abroad in Korea, with support financially from my parents.</p>
+
+    <p>However, despite my achievements, my “close” friends never congratulated me. At the time, I felt hurt and disappointed. Still, as I mentioned, I believe in my ability to stand on my own. Even without them, I know I will always be fine. But, of course, I was still too young to understand that. </p>
 
     <p>My study abroad experience changed everything. For the first time, I found myself surrounded by people who were just as driven and just as passionate about learning. In Korea, especially at <em>Seoul National University</em>, I saw students who studied not because they had to, but because they truly wanted to. Most of the cafés around Seoul National University Station were often full of students. In that environment, something inside me shifted.</p>
 
@@ -112,7 +116,7 @@
     <p>From that realization, a new path began to unfold. I decided to continue my journey in graduate school, pursuing my dreams at one of the best institutions in South Korea.</p>
   <div class="section-break">• • •</div>
   
-    <p>Did everything suddenly become perfect? Of course not. Rejection still came, sometimes quietly, sometimes painfully. When I received an additional scholarship from a private company in Korea, a friend once accused me of having “connections.” Me, the one who refused to even socialize? She was in the same class as me. If anyone should have known how hard I worked, it should have been her.</p>
+    <p>Did everything suddenly become perfect? Of course not. Rejection still came, sometimes quietly, sometimes painfully. When I received an additional scholarship from a private company in Korea, a friend once accused me of having “connections.” Me? The one who refused to even socialize? She was in the same class as me and often hangout together. If anyone should have known how hard I worked, it should have been her.</p>
 
     <p>That was the moment I understood: sometimes, people choose easier explanations over uncomfortable truths. Our friendship faded after that.</p>
 
