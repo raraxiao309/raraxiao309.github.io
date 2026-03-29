@@ -150,7 +150,5 @@
 
     <footer>© 2026 · My Personal Journal</footer>
 
-  </div>
-</body>
-</html>
+
 
