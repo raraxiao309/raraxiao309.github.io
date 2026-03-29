@@ -1,49 +1,21 @@
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Small Circle</title>
-  <style>
-    body {
-      margin: 0;
-      background-color: #0a0a0a;
-      color: #eaeaea;
-      font-family: Georgia, "Times New Roman", serif;
-      line-height: 2;
-      letter-spacing: 0.3px;
-    }
-
-    .container {
-      max-width: 700px;
-      margin: 80px auto;
-      padding: 0 24px;
-    }
-
-    h1 {
-      font-size: 2.5rem;
-      font-weight: 300;
-      margin-bottom: 10px;
-    }
-
-    .dedication {
-      font-size: 0.9rem;
-      color: #aaa;
-      font-style: italic;
-      margin-bottom: 40px;
+      margin: 0 auto;
+      padding: 80px 24px;
     }
 
     .quote-main {
-      font-size: 1.2rem;
-      color: #ccc;
-      margin: 60px 0;
-      border-left: 2px solid #444;
-      padding-left: 20px;
+      font-family: 'Playfair Display', serif;
+      font-size: 1.3rem;
       font-style: italic;
+      color: #ccc;
+      margin: 80px 0;
+      text-align: center;
     }
 
     p {
-      font-size: 1.05rem;
-      margin-bottom: 28px;
+      font-size: 1rem;
+      margin-bottom: 32px;
+      color: #d6d3d1;
       opacity: 0;
       transform: translateY(20px);
       animation: fadeUp 1s ease forwards;
@@ -68,31 +40,41 @@
 
     .dropcap:first-letter {
       float: left;
-      font-size: 3.5rem;
+      font-family: 'Playfair Display', serif;
+      font-size: 3.8rem;
       line-height: 1;
       padding-right: 10px;
-      font-weight: 400;
     }
 
-    .divider {
-      border-top: 1px solid #222;
-      margin: 60px 0;
+    .section-break {
+      margin: 100px 0;
+      text-align: center;
+      color: #777;
+      font-size: 0.8rem;
+      letter-spacing: 2px;
     }
 
     footer {
-      margin-top: 100px;
-      font-size: 0.8rem;
-      color: #666;
       text-align: center;
+      padding: 80px 20px;
+      font-size: 0.75rem;
+      color: #666;
+      letter-spacing: 1px;
     }
 
   </style>
 </head>
-<body>
-  <div class="container">
 
-    <h1>The Small Circle</h1>
-    <div class="dedication">Dedicated to the few who stayed, and to the version of me who learned that a few is enough.</div>
+<body>
+
+  <div class="hero">
+    <div>
+      <h1>The Small Circle</h1>
+      <p>Dedicated to the few who stayed, and to the version of me who learned that a few is enough.</p>
+    </div>
+  </div>
+
+  <div class="container">
 
     <div class="quote-main">
       “Because learning how to be accepted is one thing,<br>
@@ -101,7 +83,7 @@
     </div>
 
     <p class="dropcap">I grew up in a family that was well-known in the neighborhood. It was never easy living a life that always felt like it was under a spotlight. Sometimes, I wished I had been born “ordinary,” into a quieter life, one that was private and gently detached from the constant gaze of others. I had to be mindful of what I wore; even coming home late could spark whispers. My parents worried, not about me, but about what the neighbors might think of me. So I learned to stay in. I rarely went out at night, and often chose not to go out at all. So, by the time, I chose to have a few friends, but meaningful one.</p>
-
+      <div class="section-break">• • •</div>
     <p>My childhood, I believe, was different from most children in Indonesia. While others played with toys, my mother handed me encyclopedias and storybooks. Words became my companions. They shaped the way I spoke, the way I thought, making me sound unfamiliar, even strange to other children. Growing up in a predominantly Muslim neighborhood added another layer to that difference. Once, I sang “Twinkle, Twinkle, Little Star” at a neighbor’s birthday party, and somehow, it was misunderstood. They thought I was trying to spread missionary ideas, though I was not even Christian. I was just a child singing a song that I like.</p>
 
     <p>One morning, at 6 a.m., a childhood friend’s mother knocked on our door. I was still half-asleep when I heard her voice, sharp and uneasy. “She better not spread any strange ideas to the other children,” she said to my mom. “Not everyone here can afford the things she initiates.”</p>
@@ -111,7 +93,8 @@
     <p>We lived in a suburban part of Bandung. Compared to many of our neighbors, my family was relatively comfortable. My mother, a civil servant with additional side work, earned a stable income and my dad also work as well. At that time, something as simple as KFC could feel like a luxury to my friends.</p>
 
     <p>That day, my mother explained something important to me, not with anger, but with understanding. She asked me to be mindful, not to suggest activities that required money others might not have. I agreed. She never judged me without listening from both parties. The thing that I always carry until now, never accused others without any evidence. I have always believed she is one of the wisest people I know.</p>
-
+  <div class="section-break">• • •</div>
+  
     <p>Still, the question lingered quietly within me: Why am I so different?</p>
 
     <p>Over time, that question turned into distance. I stopped trying to fit in. Sometimes, I was excluded, not only because my ideas were seen as “unusual,” but also because of quiet jealousy. So I retreated into my own world. I spent my time studying English, Japanese, mathematics, things that felt safe, things I could control.</p>
@@ -119,7 +102,8 @@
     <p>But the feeling of being different did not disappear. It followed me into adolescence. At times, I had difficulty in making friends. Some classmates resented me for getting good grades without cheating. I was not the type to share homework or answers during exams, and that made me an easy target.</p>
 
     <p>Yet, there was one belief I held onto, almost stubbornly: I wanted to do the right thing. Since I was a child, I believed that doing what is right would bring a deeper kind of satisfaction even if it meant not being liked. I tried, always, to see the brighter side. If nothing else, I knew I could rely on myself. That quiet confidence became my anchor. It helped me endure. It helped me move forward.</p>
-
+  <div class="section-break">• • •</div>
+  
     <p>During my undergraduate years, I became one of the top three students in my faculty. I also had the opportunity to study abroad in Korea, supported by my parents. I had several friends who were also ambitious as I was. However, they never congratulate me for what I achieved. Of course, at that time I felt offended and sad. However, like I said, I can do everything by myself. So, without them, I believed I will always be fine.</p>
 
     <p>Study abroad experience changed everything. For the first time, I found myself surrounded by people who were just as driven, just as passionate about learning. In Korea, Seoul National University, I saw students who studied not because they had to, but because they truly wanted to. And in that environment, something inside me shifted.</p>
@@ -127,7 +111,8 @@
     <p>I realized, perhaps for the first time, that I was never “weird.” I was simply in the wrong environment.</p>
 
     <p>From that realization, a new path began to unfold. I decided to continue my journey in graduate school, pursuing my dreams at one of the best institutions in South Korea.</p>
-
+  <div class="section-break">• • •</div>
+  
     <p>Did everything suddenly become perfect? Of course not. Rejection still came, sometimes quietly, sometimes painfully. When I received an additional scholarship from a private company in Korea, someone once accused me of having “connections.” Me, the one who refused to even socialize? She was in the same class as me. If anyone should have known how hard I worked, it should have been her.</p>
 
     <p>That was the moment I understood: sometimes, people choose easier explanations over uncomfortable truths. Our friendship faded after that.</p>
@@ -153,7 +138,8 @@
  <p>What connected the three of us most, however, was not our academic life, but our shared vulnerabilities. We talked endlessly about our hardships, not about grades or competition, but about love, heartbreak, confusion, and growing pains. We never competed with one another over achievements. Instead, we supported each other, reading drafts, helping with theses, and offering encouragement when it was needed most. <p>
  
    <p>Even after graduation, that support never faded. Ji Yoon helped Jong Suk find his path into a job. Jong Suk, in turn, supported me in building my organization. In our own ways, we kept showing up for one another.<p>
-
+  <div class="section-break">• • •</div>
+  
     Through them, I learned something profound: when people feel secure in their own lives, they do not compete, they uplift.</p>
 
     <p>And somewhere along the way, I changed too. Throughout the journey, I learned how to navigate rejection and turn differences into something more meaningful. I’ve realized that being different is not bad at all. **Life is too short to be mediocre**. I feel proud of who I am and what makes me unique. If I were just like everyone else, I probably wouldn’t have been able to work in Korea or reach the position I am in today.</p>
