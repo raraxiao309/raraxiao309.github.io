@@ -77,6 +77,7 @@
       “Because learning how to be accepted is one thing,<br>
       but learning how to stand firm when you are not,<br>
       is a story of its own”.
+      -R-
     </div>
  <div class="section-break">• • •</div>
  
@@ -121,7 +122,7 @@
 
     <p>Jong Suk became my closest friend since freshman year. Having grown up in the UK, he spoke English fluently, with a distinct British accent. At first, I chose him out of necessity. I needed someone I could communicate with since I barely spoke Korean. But over time, that choice turned into something much deeper: trust, comfort, and unwavering friendship. Through so many moments in my life, he was there, helping me move, assisting with visa deposits, standing beside me through heartbreaks, and staying when things felt heavy and uncertain. If anyone truly knows my dating history, my struggles, and the unfiltered version of me, it is him.</p>
 
-    <p>Then, there was Ji Yoon. Gentle, kind, and warm from the very beginning. I cannot pinpoint exactly when we became close, but with her, everything felt effortless. There was a quiet comfort in her presence—a space where I could share the more personal, unspoken parts of my life, the kind that only women often understand without needing many words. She felt like an older sister to me, steady, dependable, and deeply caring. Everytime I visited her apartment duplex with <em>Gyeongbokgung palace</em>, she will cook something for me. Even now, we remain in touch, and I know with certainty that no matter where life takes us, I will always be there for her, just as she has been for me.</p>
+    <p>Then, there was Ji Yoon. Gentle, kind, and warm from the very beginning. I cannot pinpoint exactly when we became close, but with her, everything felt effortless. There was a quiet comfort in her presence—a space where I could share the more personal, unspoken parts of my life, the kind that only women often understand without needing many words. She felt like an older sister to me, steady, dependable, and deeply caring. Everytime I visited her apartment duplex with <em>Gyeongbokgung palace view</em>, she will cook something for me. Even now, we remain in touch, and I know with certainty that no matter where life takes us, I will always be there for her, just as she has been for me.</p>
 
     <p>Together, people in our faculty called us the Three Musketeers.And thanks to them, I did not feel like I was standing alone.</p>
 
