@@ -1,16 +1,4 @@
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Small Circle</title>
-  <style>
-    body {
-      margin: 0;
-      background-color: #0b0b0b;
-      color: #e8e6e3;
-      font-family: Georgia, "Times New Roman", serif;
-      line-height: 1.9;
-    }
 
     .container {
       max-width: 650px;
@@ -22,6 +10,9 @@
       font-size: 2.4rem;
       font-weight: 400;
       margin-bottom: 10px;
+      opacity: 0;
+      transform: translateY(10px);
+      animation: fadeIn 1s ease forwards;
     }
 
     .dedication {
@@ -29,19 +20,41 @@
       color: #aaa;
       font-style: italic;
       margin-bottom: 40px;
+      opacity: 0;
+      animation: fadeIn 1.2s ease forwards;
     }
 
     .quote {
       font-style: italic;
-      text-align: center;
       margin: 50px 0;
       color: #ccc;
+      border-left: 2px solid #444;
+      padding-left: 20px;
+      opacity: 0;
+      animation: fadeIn 1.4s ease forwards;
     }
 
     p {
       font-size: 1.05rem;
       margin-bottom: 24px;
       color: #ddd;
+      opacity: 0;
+      transform: translateY(12px);
+      animation: fadeUp 0.8s ease forwards;
+    }
+
+    p:nth-of-type(1) { animation-delay: 0.2s; }
+    p:nth-of-type(2) { animation-delay: 0.4s; }
+    p:nth-of-type(3) { animation-delay: 0.6s; }
+    p:nth-of-type(4) { animation-delay: 0.8s; }
+    p:nth-of-type(5) { animation-delay: 1s; }
+
+    @keyframes fadeIn {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes fadeUp {
+      to { opacity: 1; transform: translateY(0); }
     }
 
     .dropcap:first-letter {
@@ -56,6 +69,8 @@
       margin-top: 80px;
       font-size: 0.8rem;
       color: #666;
+      opacity: 0;
+      animation: fadeIn 2s ease forwards;
     }
   </style>
 </head>
