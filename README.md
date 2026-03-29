@@ -1,78 +1,76 @@
 <html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Small Circle</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #0b0b0b;
+      color: #e8e6e3;
+      font-family: Georgia, "Times New Roman", serif;
+      line-height: 1.9;
     }
 
-    .quote-main {
-      font-size: 1.3rem;
-      color: #cfcfcf;
-      margin: 80px 0;
+    .container {
+      max-width: 650px;
+      margin: 80px auto;
+      padding: 0 20px;
+    }
+
+    h1 {
+      font-size: 2.4rem;
+      font-weight: 400;
+      margin-bottom: 10px;
+    }
+
+    .dedication {
+      font-size: 0.95rem;
+      color: #aaa;
+      font-style: italic;
+      margin-bottom: 40px;
+    }
+
+    .quote {
       font-style: italic;
       text-align: center;
-      line-height: 1.8;
+      margin: 50px 0;
+      color: #ccc;
     }
 
     p {
-      font-size: 1.08rem;
-      margin-bottom: 30px;
+      font-size: 1.05rem;
+      margin-bottom: 24px;
       color: #ddd;
-      opacity: 0;
-      transform: translateY(30px);
-      animation: fadeIn 1.2s ease forwards;
-    }
-
-    p:nth-of-type(odd) { animation-delay: 0.2s; }
-    p:nth-of-type(even) { animation-delay: 0.4s; }
-
-    @keyframes fadeIn {
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
     }
 
     .dropcap:first-letter {
       float: left;
-      font-size: 4rem;
+      font-size: 3rem;
       line-height: 1;
-      padding-right: 10px;
-      font-weight: 300;
-    }
-
-    .divider {
-      border-top: 1px solid #222;
-      margin: 80px 0;
+      padding-right: 8px;
     }
 
     footer {
       text-align: center;
-      font-size: 0.75rem;
+      margin-top: 80px;
+      font-size: 0.8rem;
       color: #666;
-      letter-spacing: 1px;
     }
-
-    @media (max-width: 600px) {
-      h1 { font-size: 2rem; }
-      .hero { height: 50vh; }
-    }
-
   </style>
 </head>
 <body>
+  <div class="container">
 
-  <section class="hero">
-    <div class="hero-inner">
-      <div class="category">Journal</div>
-      <h1>The Small Circle</h1>
-      <div class="dedication">Dedicated to the few who stayed, and to the version of me who learned that a few is enough.</div>
-    </div>
-  </section>
+    <h1>The Small Circle</h1>
+    <div class="dedication">Dedicated to the few who stayed, and to the version of me who learned that a few is enough.</div>
 
-  <section class="content">
-
-    <div class="quote-main">
+    <div class="quote">
       “Because learning how to be accepted is one thing,<br>
       but learning how to stand firm when you are not,<br>
       is a story of its own”.
     </div>
+
 
     <p class="dropcap">I grew up in a family that was well-known in the neighborhood. It was never easy living a life that always felt like it was under a spotlight. Sometimes, I wished I had been born “ordinary,” into a quieter life, one that was private and gently detached from the constant gaze of others. I had to be mindful of what I wore; even coming home late could spark whispers. My parents worried, not about me, but about what the neighbors might think of me. So I learned to stay in. I rarely went out at night, and often chose not to go out at all. So, by the time, I chose to have a few friends, but meaningful one.</p>
       <div class="section-break">• • •</div>
