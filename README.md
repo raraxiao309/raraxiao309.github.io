@@ -144,15 +144,25 @@
 
     <p>Both Jong Suk and Ji Yoon came from affluent families, but what struck me most was not their background, it was their character.</p>
 
-    <p>Through them, I learned something profound: when people feel secure in their own lives, they do not compete, they uplift.</p>
+    <p>Jong Suk’s family owns a hotel in Jeju. I once visited them during a trip, and they welcomed me with warmth and generosity that I still remember. Academically, he was the brightest among us arguably the smartest in our entire batch. He embodied what it meant to be truly book-smart, and when he graduated as the top student, it felt not surprising, but simply right.</p>
+    
+   <p> Ji Yoon’s family, on the other hand, is rooted in medicine. Nearly all of them are doctors in Daejeon, about an hour from Seoul by high-speed train. They own a clinic there, and when I visited her hometown, I saw a different side of life in Korea. Unlike the typical apartment lifestyle, she lived in a house something that quietly reflected the comfort she grew up in. <p>
+     
+   <p> I remember one moment clearly. She arrived one day with a new car, and when I asked her why she bought it, she simply smiled and said, “Because it’s cool. There was something refreshing about that honesty, no overthinking, no justification. Just joy. And most of the time, that car became part of our memories, as we traveled together with her behind the wheel.  <p>
+     
+ <p>What connected the three of us most, however, was not our academic life, but our shared vulnerabilities. We talked endlessly about our hardships, not about grades or competition, but about love, heartbreak, confusion, and growing pains. We never competed with one another over achievements. Instead, we supported each other, reading drafts, helping with theses, and offering encouragement when it was needed most. <p>
+ 
+   <p>Even after graduation, that support never faded. Ji Yoon helped Jong Suk find his path into a job. Jong Suk, in turn, supported me in building my organization. In our own ways, we kept showing up for one another.<p>
 
-    <p>And somewhere along the way, I changed too. Through the journey, I learned how navigating rejection and difference into something more meaningful. For me, life is too short to be someone mediocre.</p>
+    Through them, I learned something profound: when people feel secure in their own lives, they do not compete, they uplift.</p>
 
-    <p>Instead, I chose friend carefully. Because I realized that it is not about how many people you know, it is about who you choose to keep, and who chooses to stay. I just simply prefer a small circle.</p>
+    <p>And somewhere along the way, I changed too. Throughout the journey, I learned how to navigate rejection and turn differences into something more meaningful. I’ve realized that being different is not bad at all. **Life is too short to be mediocre**. I feel proud of who I am and what makes me unique. If I were just like everyone else, I probably wouldn’t have been able to work in Korea or reach the position I am in today.</p>
+
+    <p>Instead, I chose friend carefully and embrace myself fully. Because I realized that it is not about how many people you know, it is about who you choose to keep, and who chooses to stay. I just simply prefer a small circle.</p>
 
     <p><em>To be continue…</em></p>
 
-    <footer>© 2026 · A Personal Journal</footer>
+    <footer>© 2026 · My Personal Journal</footer>
 
   </div>
 </body>
