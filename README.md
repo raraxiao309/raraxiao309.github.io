@@ -1,37 +1,28 @@
 <html lang="en">
-      margin: 0 auto;
-      padding: 80px 24px;
     }
 
     .quote-main {
-      font-family: 'Playfair Display', serif;
       font-size: 1.3rem;
-      font-style: italic;
-      color: #ccc;
+      color: #cfcfcf;
       margin: 80px 0;
+      font-style: italic;
       text-align: center;
+      line-height: 1.8;
     }
 
     p {
-      font-size: 1rem;
-      margin-bottom: 32px;
-      color: #d6d3d1;
+      font-size: 1.08rem;
+      margin-bottom: 30px;
+      color: #ddd;
       opacity: 0;
-      transform: translateY(20px);
-      animation: fadeUp 1s ease forwards;
+      transform: translateY(30px);
+      animation: fadeIn 1.2s ease forwards;
     }
 
-    p:nth-of-type(1) { animation-delay: 0.2s; }
-    p:nth-of-type(2) { animation-delay: 0.4s; }
-    p:nth-of-type(3) { animation-delay: 0.6s; }
-    p:nth-of-type(4) { animation-delay: 0.8s; }
-    p:nth-of-type(5) { animation-delay: 1s; }
-    p:nth-of-type(6) { animation-delay: 1.2s; }
-    p:nth-of-type(7) { animation-delay: 1.4s; }
-    p:nth-of-type(8) { animation-delay: 1.6s; }
-    p:nth-of-type(9) { animation-delay: 1.8s; }
+    p:nth-of-type(odd) { animation-delay: 0.2s; }
+    p:nth-of-type(even) { animation-delay: 0.4s; }
 
-    @keyframes fadeUp {
+    @keyframes fadeIn {
       to {
         opacity: 1;
         transform: translateY(0);
@@ -40,41 +31,42 @@
 
     .dropcap:first-letter {
       float: left;
-      font-family: 'Playfair Display', serif;
-      font-size: 3.8rem;
+      font-size: 4rem;
       line-height: 1;
       padding-right: 10px;
+      font-weight: 300;
     }
 
-    .section-break {
-      margin: 100px 0;
-      text-align: center;
-      color: #777;
-      font-size: 0.8rem;
-      letter-spacing: 2px;
+    .divider {
+      border-top: 1px solid #222;
+      margin: 80px 0;
     }
 
     footer {
       text-align: center;
-      padding: 80px 20px;
       font-size: 0.75rem;
       color: #666;
       letter-spacing: 1px;
     }
 
+    @media (max-width: 600px) {
+      h1 { font-size: 2rem; }
+      .hero { height: 50vh; }
+    }
+
   </style>
 </head>
-
 <body>
 
-  <div class="hero">
-    <div>
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="category">Journal</div>
       <h1>The Small Circle</h1>
-      <p>Dedicated to the few who stayed, and to the version of me who learned that a few is enough.</p>
+      <div class="dedication">Dedicated to the few who stayed, and to the version of me who learned that a few is enough.</div>
     </div>
-  </div>
+  </section>
 
-  <div class="container">
+  <section class="content">
 
     <div class="quote-main">
       “Because learning how to be accepted is one thing,<br>
