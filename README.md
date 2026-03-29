@@ -58,17 +58,17 @@
       font-size: 0.8rem;
       color: #666;
     }
-  </style>
-</head>
-<body>
-  <div class="container">
-    }
-  section-break {
+    .section-break {
       text-align: center;
       margin: 60px 0;
       color: #888;
       letter-spacing: 6px;
       font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
 
     <h1>The Small Circle</h1>
     <div class="dedication">Dedicated to the few who stayed, and to the version of me who learned that a few is enough.</div>
