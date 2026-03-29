@@ -1,26 +1,4 @@
 <html lang="en">
-
-    .container {
-      max-width: 650px;
-      margin: 80px auto;
-      padding: 0 20px;
-    }
-
-    h1 {
-      font-size: 2.4rem;
-      font-weight: 400;
-      margin-bottom: 10px;
-      opacity: 0;
-      transform: translateY(10px);
-      animation: fadeIn 1s ease forwards;
-    }
-
-    .dedication {
-      font-size: 0.95rem;
-      color: #aaa;
-      font-style: italic;
-      margin-bottom: 40px;
-      opacity: 0;
       animation: fadeIn 1.2s ease forwards;
     }
 
@@ -85,7 +63,6 @@
       but learning how to stand firm when you are not,<br>
       is a story of its own”.
     </div>
-
 
     <p class="dropcap">I grew up in a family that was well-known in the neighborhood. It was never easy living a life that always felt like it was under a spotlight. Sometimes, I wished I had been born “ordinary,” into a quieter life, one that was private and gently detached from the constant gaze of others. I had to be mindful of what I wore; even coming home late could spark whispers. My parents worried, not about me, but about what the neighbors might think of me. So I learned to stay in. I rarely went out at night, and often chose not to go out at all. So, by the time, I chose to have a few friends, but meaningful one.</p>
       <div class="section-break">• • •</div>
