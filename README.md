@@ -1,3 +1,4 @@
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -63,6 +64,81 @@
     .quote {
       font-size: 1.2rem;
       font-weight: 300;
+      color: #ccc;
+      margin: 60px 0;
+      border-left: 2px solid #444;
+      padding-left: 20px;
+      font-style: italic;
+    }
+
+    .divider {
+      border-top: 1px solid #222;
+      margin: 60px 0;
+    }
+
+    footer {
+      margin-top: 100px;
+      font-size: 0.75rem;
+      color: #666;
+      text-align: center;
+      letter-spacing: 1px;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        margin: 50px auto;
+      }
+
+      h1 {
+        font-size: 1.8rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="category">Journal</div>
+
+    <h1>A Quiet Day, A Loud Mind</h1>
+
+    <div class="subtitle">On stillness, thoughts, and the unnoticed rhythm of growth</div>
+
+    <div class="meta">March 2026 · 3 min read</div>
+
+    <p class="dropcap">
+      Today felt slower than usual. The kind of day where time stretches just enough for thoughts to become louder than actions.
+    </p>
+
+    <p>
+      I started my morning with coffee and no urgency. No emails. No expectations. Just a quiet negotiation with my own thoughts.
+    </p>
+
+    <p>
+      There is something strange about stillness. It reveals things we usually avoid—questions about direction, purpose, and whether we are truly moving forward or just moving.
+    </p>
+
+    <div class="quote">
+      Maybe growth is not something we notice in motion, but something we understand in stillness.
+    </div>
+
+    <p>
+      In the afternoon, I walked outside. The world continued as if nothing had changed, yet everything felt slightly different.
+    </p>
+
+    <p>
+      Maybe growth is not always loud. Maybe it happens quietly, in pauses, in moments like this.
+    </p>
+
+    <div class="divider"></div>
+
+    <footer>
+      © 2026 · A Personal Journal
+    </footer>
+
+  </div>
+</body>
+</html>
       color: #ccc;
       margin: 60px 0;
       border-left: 2px solid #444;
